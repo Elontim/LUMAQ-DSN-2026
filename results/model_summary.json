@@ -1,0 +1,9 @@
+{
+  "data_source": "simulated proof-of-concept data",
+  "records": 2400,
+  "selected_model": "random_forest",
+  "mae_minutes": 22.874,
+  "rmse_minutes": 35.303,
+  "r2": 0.9959,
+  "detected_anomalies": 96
+}
