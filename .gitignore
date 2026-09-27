@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+models/*.joblib
+data/*.csv
+!data/sample_energy_data.csv
+
